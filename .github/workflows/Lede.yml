@@ -27,7 +27,7 @@ on:
       CONFIG_FILE:
         description: '请选择配置文件'
         required: true
-        default: 'x86_64'
+        default: 'h68k'
         type: choice
         options:
           - 'asus_rt-acrh17'
